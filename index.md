@@ -1,5 +1,3 @@
-# 欢迎访问ShannonLee的个人博客
-
 [TOC]
 
 # 1、JAVA
