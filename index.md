@@ -14,5 +14,5 @@
 
 ## 	7.1 Jenkins
 
-# 8 [博客搭建](8blog\01buildblog.md)
+# 8 [博客搭建](8blog/01buildblog.md)
 
