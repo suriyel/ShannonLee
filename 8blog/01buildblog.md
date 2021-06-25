@@ -10,5 +10,13 @@
 
 完成后，即可在GitHub上直接新建一个仓库，并设置为GitPage，这样一个免费的个人博客就建好了。
 
-![image-20210625220639257](https://gitee.com/null_161_0561/picpic/raw/master/2021/20210625220639.png)
+![image-20210625220639257](http://gitee.com/null_161_0561/picpic/raw/master/2021/20210625220639.png)
+
+
+
+tips：需要注意的是图床url最好设为http的，插件默认为https，markdown显示https图片，较为麻烦，最好改为http：
+
+![image-20210625221904945](http://gitee.com/null_161_0561/picpic/raw/master/2021/20210625221904.png)
+
+注意repo和分支间有个raw
 
