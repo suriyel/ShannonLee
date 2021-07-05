@@ -19,4 +19,3 @@ tips：需要注意的是图床url最好设为http的，插件默认为https，m
 ![image-20210625221904945](http://gitee.com/null_161_0561/picpic/raw/master/2021/20210625221904.png)
 
 注意repo和分支间有个raw
-
